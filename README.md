@@ -1,0 +1,2 @@
+# privacypolicy
+extension privacy policy
